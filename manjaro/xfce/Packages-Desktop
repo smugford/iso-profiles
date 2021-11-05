@@ -200,6 +200,7 @@ screenfetch
 >extra viewnior
 >extra xfburn
 >extra yelp
+qemu-kvm
 
 # Optional dependencies engrampa
 p7zip  # 7Z and ARJ archive support
